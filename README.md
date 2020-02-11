@@ -26,6 +26,13 @@ That's all.
 <hr/>
 <strong>Basic commands</strong>
 
+<ul>
+   <li>Initializing a local repository</li>
+   <li>Query commands</li>
+      > git branch            : show all branches
+</ul>
+
+
 <h4> How to generate as ssh key:</h4>
  > ssh-keygen -t rsa -b 4096 -C "seu.email@email.com"
  
