@@ -4,7 +4,7 @@
 
 (1) The user edit and save Readme.txt file.
     You can check the state using:
-    > git status    : the file is diplayed as "Untrack"
+    > git status    (the file is diplayed as "Untrack")
 
 (2) Now we need do send to staging (a packaging procedure for future commit)
     > git add Readme.txt
@@ -20,7 +20,7 @@
     > git push
     
 (7) Now your remote repository is updated.
-    You can check in your git hub account (https://github.com/yourUserName)
+    You can check it out in your git hub account (https://github.com/yourUserName)
     
 That's all.
 <hr/>
@@ -39,7 +39,7 @@ That's all.
  For windows users, we can find the generated key in:
     c:\users\myUserName\.ssh\id_rsa.pub
     
- Now we will be able to set up our github account and the system will never again ask for username
+ Now we will be able to set up our github account and the system will never ask again for username
  and password each time we need push our changes.
 
 
