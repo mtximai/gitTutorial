@@ -1,16 +1,4 @@
 # My Git tutorial
-<strong>Basic commands</strong>
-
-<h4> How to generate as ssh key:</h4>
- > ssh-keygen -t rsa -b 4096 -C "seu.email@email.com"
- 
- For windows users, we can find the generated key in:
-    c:\users\myUserName\.ssh\id_rsa.pub
-    
- Now we will be able to set up our github account and the system will never again ask for username
- and password each time we need push our changes.
-
-
 <h3>Basic working principles</h3>
 <img src="./images/git-diagram.png" />
 
@@ -35,3 +23,16 @@
     You can check in your git hub account (https://github.com/yourUserName)
     
 That's all.
+<hr/>
+<strong>Basic commands</strong>
+
+<h4> How to generate as ssh key:</h4>
+ > ssh-keygen -t rsa -b 4096 -C "seu.email@email.com"
+ 
+ For windows users, we can find the generated key in:
+    c:\users\myUserName\.ssh\id_rsa.pub
+    
+ Now we will be able to set up our github account and the system will never again ask for username
+ and password each time we need push our changes.
+
+
