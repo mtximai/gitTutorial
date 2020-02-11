@@ -1,8 +1,14 @@
-# gitTutorial
-<strong>Principais comandos para o Git</strong>
+# My Git tutorial
+<strong>Basic commands</strong>
 
-<h4>Como gerar uma chave ssh:</h4>
+<h4> How to generate as ssh key:</h4>
  > ssh-keygen -t rsa -b 4096 -C "seu.email@email.com"
+ 
+ For windows users, we can find the generated key in:
+    c:\users\myUserName\.ssh\id_rsa.pub
+    
+ Now we will be able to set up our github account and the system will never again ask for username
+ and password each time we need push our changes.
 
 
 <h3>Basic working principles</h3>
