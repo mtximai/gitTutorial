@@ -32,7 +32,7 @@ That's all.
  For windows users, we can find the generated key in:
     c:\users\myUserName\.ssh\id_rsa.pub
     
- Now we will be able to set up our github account and the system will never again ask for username
+ Now we will be able to set up our github account and the system will never ask again for username
  and password each time we need push our changes.
 
 
