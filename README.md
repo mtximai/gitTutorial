@@ -11,7 +11,7 @@
     
 (3) The file is now is Staging.
 
-(4) To save to Loca repository use:
+(4) To save to Local repository use:
     > git commit -m "Any comment"
     
 (5) The file is now saved in your local repostitory
